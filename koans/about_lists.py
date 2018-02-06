@@ -7,7 +7,9 @@
 
 from runner.koan import *
 
+
 class AboutLists(Koan):
+
     def test_creating_lists(self):
         empty_list = list()
         self.assertEqual(list, type(empty_list))
