@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+*.pyc
+*.swp
+.DS_Store
+answers
+.hg
+.idea
